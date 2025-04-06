@@ -9,8 +9,8 @@ I'm a passionate and curious developer/engineer with a love for building things 
 - 🧳 Fun Fact: I love traveling / Playing Basketball / building cool side-projects
 
 Let’s connect and build something awesome together! 🚀 
-📫 Reach me at: shivajisurve.suresh@gmail.com  
-🔗 LinkedIn: Shivaji S Surve 
+
+📫 Reach me at: shivajisurve.suresh@gmail.com   
 
 
 # 💻 Tech Stack:
